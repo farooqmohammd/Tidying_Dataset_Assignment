@@ -1,13 +1,6 @@
----
-title: "README"
-author: "Farooqmohammd"
-date: "21/08/2020"
-output:
-  html_document:
-    keep_md: yes
----
+# Final_project
 
-### Project Description
+### Project Details
 The purpose of this project is to demonstrate THE ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. . We are required to submit: 1) a tidy data set , 2) a link to a Github repository , and 3) a code book that describes the variables of the dataset.The objective is to tidy the dataset Human Activity Recognition Using Smartphones Dataset.
 
 The obtained dataset contains the results of experiments carried out with a group of 30 volunteers within an age bracket of 19-48 years and the results have been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
